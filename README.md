@@ -1,6 +1,6 @@
 # PUBG-Finish-Placement-Prediction
 
-2 years ago Kaggle collected data from [PUBG developer api](https://developer.pubg.com/) and made available to public. They launched a competition named "PUBG finish placement prediction". 
+2 years ago Kaggle collected data from [PUBG developer api](https://developer.pubg.com/) and made available to public. They launched a competition named "PUBG finish placement prediction". Though competition is closed, I am interesting in solving this challenge. 
 
 We are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings.
 
