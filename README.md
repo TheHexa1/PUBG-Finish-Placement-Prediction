@@ -8,5 +8,5 @@ We asked to create a model which predicts players' finishing placement based on 
 
 [Data Source and description](https://www.kaggle.com/c/pubg-finish-placement-prediction/data)
 
-## **In Progress**
-*I will keep updating this repo with competition codebase*
+## **Current Progress**
+Performed Exploratory Data Analysis of ~628mb of data
